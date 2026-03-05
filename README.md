@@ -7,7 +7,7 @@
 ## GitHub Repository
 
 - https://github.com/Jai-76/Sustanable-development
-- Prototype Link (Local Preview): http://localhost:3000
+- Prototype Link (Live): https://jai-76.github.io/Sustanable-development/
 
 ---
 
