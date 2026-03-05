@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+
+# ML artefacts (large binary files)
+ml/artefacts/*.joblib
+ml/artefacts/*.pt
+ml/artefacts/*.pkl
+
+# Node
+node_modules/
+.next/
+out/
+
+# Env
+.env
+.env.local
+!.env.example
+!.env.local.example
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/settings.json
+.idea/
